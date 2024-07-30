@@ -1,7 +1,7 @@
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
 
-class Program: 
+class Matonte: 
     
     def __init__(self, name, pages):
         self.name = name
@@ -49,7 +49,7 @@ def main():
 
     ps = [home,view,edit]
 
-    program = Program("theprogram",ps)
+    program = Matonte("theprogram",ps)
 
     program.getInfo()
 
