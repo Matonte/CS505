@@ -1,6 +1,3 @@
-# Michael Matonte
-# Module 4 
-# 8/1/24
 
 # Michael Matonte
 # CS505 -Module 5 
